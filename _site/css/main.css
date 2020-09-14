@@ -27,7 +27,7 @@ header { border-bottom: 1px solid #edefee; padding: 40px 0; margin-bottom: 40px;
 
 @media (min-width: 640px) { header { margin-bottom: 60px; } }
 
-.intro { margin-bottom: 40px; }
+.intro { margin-bottom: 20px; }
 
 .intro__pre, .intro__post { text-transform: uppercase; letter-spacing: 4px; }
 

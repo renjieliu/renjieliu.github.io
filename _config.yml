@@ -9,11 +9,7 @@ description: Single page website for Renjie's Profile
 name: Renjie Liu
 job: Business Intelligence Engineer
 location: New York
-<<<<<<< HEAD
-skills: 'SQL  |  ETL  |  Python  |  Data'
-=======
 skills: SQL | ETL | Python | Data
->>>>>>> fa1aceb89918451abf3a7d14fa7553f79a1a8ee9
 #twitter_username: mattcouchman
 #github_username:  mattcouchman
 #codepen_username:  mattcouchman

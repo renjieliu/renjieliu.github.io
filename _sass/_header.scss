@@ -13,7 +13,7 @@ header {
 }
 
 .intro {
-    margin-bottom: ($spacer * 2);
+    margin-bottom: ($spacer * 1); // ($spacer * 2);
 
     &__pre, &__post {
         text-transform: uppercase;
