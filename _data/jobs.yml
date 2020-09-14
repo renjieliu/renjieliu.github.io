@@ -1,7 +1,22 @@
--   title: Engineering Lead
-    company: Company X
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Business Intelligence Engineer
+    company: United Nations (Trigyn), Sep 2015 - Now
+    description: Collect and analyze Business requirements in HR reporting areas \n Design and implement Data Warehouse tables
+    description: Design and implement Data Warehouse tables \n
+    description: Data acquisition and wrangling to ensure data integrity for system integration \n
+    description: Troubleshoot the issues reported by the user \n
+    description: Weigh Pros and Cons and give advices on potential enhancements \n
+    description: Automate repeating task \n
+    description: Lead/mentor new teammate for the work \n
+    description: Conduct technical sessions for knowledge sharing \n
 
--   title: Front end developer
-    company: Company Y
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+-   title: Project Coordinator and Technical Leader
+    company: PepsiCo (Infosys), Mar 2013 – Sep 2015
+    description: #- Business requirement analysis and project coordination  - Multi-source data wrangling, ETL and Report building  - ETL jobs and report performance tuning  - Production jobs support  - System analysis and proposal for system enhancement  - Offshore work management and project status tracking
+
+-   title: Business Intelligence Analyst & Developer
+    company: Infosys Limited, Aug 2009 – Mar 2013
+    description: #- Engage in full project life cycle, High/Low-Level Design  - Deliver report modules single handedly, including migration  - User access configuration and management  - System performance tuning  - Customized report delivering, per users’ data access setup  - End user training 
+    
+    
+    

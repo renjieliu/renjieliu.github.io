@@ -16,12 +16,12 @@
 <dl class="education">
     {% for qualification in site.data.education %}
         <dt>
-            <p class="title">{{ qualification.qualification }}</p>
             <p class="company">{{ qualification.school }}</p>
             <p class="period">{{ qualification.period }}</p>
-        </dt><!--
-        --><dd>
-            <p>{{ qualification.description }}</p>
-        </dd>
+			<p class="qualification">{{ qualification.qualification }}</p>
+        </dt>
+		<!-- <dd> -->
+            <!-- <p>{{ qualification.description }}</p> -->
+        <!-- </dd> -->
     {% endfor %}
 </dl>
