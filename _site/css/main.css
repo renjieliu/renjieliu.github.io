@@ -17,9 +17,9 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
 
-.section-title { text-transform: uppercase; letter-spacing: 4px; margin-bottom: 40px; text-align: center; position: relative; }
+.section-title { text-transform: uppercase; letter-spacing: 4px; margin-bottom: 40px; text-align: left; position: relative; }
 
-.section-title:after { content: ''; position: absolute; bottom: -5px; left: 50%; margin-left: -25px; width: 50px; height: 1px; background: #222; }
+.section-title:after { content: ''; position: absolute; bottom: -5px; left: 3%; margin-left: -25px; width: 50px; height: 1px; background: #222; }
 
 body { font-family: "Lora", Helvetica, Arial, sans-serif, serif; font-size: 16px; line-height: 1.4; }
 
@@ -51,7 +51,7 @@ dl { margin-bottom: 20px; }
 
 dt, dd { display: inline-block; vertical-align: top; margin-bottom: 20px; }
 
-@media (min-width: 640px) { dt, dd { margin-bottom: 60px; } .experience dt { width: 100%; padding-right: 40px; } .experience dd { width: 100%; } .education dt, .education dd { width: 100%; } }
+@media (min-width: 640px) { .experience dt { width: 100%; padding-right: 40px; } .experience dd { width: 100%; } .education dt, .education dd { width: 100%; } }
 
 .title { margin: 0; font-weight: bold; font-size: 1.2rem; }
 
