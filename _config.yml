@@ -1,0 +1,20 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: Renjie Liu Profile
+email: THELRJ@gmail.com
+description: Single page website for Renjie's Profile
+#baseurl: "http://192.168.1.206:4000/"
+#url: "http://192.168.1.206:4000/"
+name: Renjie Liu
+job: Business Intelligence Engineer
+location: New York
+languages: SQL, Python
+#twitter_username: mattcouchman
+#github_username:  mattcouchman
+#codepen_username:  mattcouchman
+LinkedIn_username: renjieliu
+email_address: THELRJ@gmail.com
+
+# Build settings
+markdown: kramdown
