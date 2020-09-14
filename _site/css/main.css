@@ -55,7 +55,7 @@ dt, dd { display: inline-block; vertical-align: top; margin-bottom: 20px; }
 
 .title { margin: 0; font-weight: bold; font-size: 1.2rem; }
 
-a { color: black !important; }
+a { color: black !important; transition: all linear 0.2s; }
 
 a:hover { background: #e1e1e1; text-decoration: none; }
 

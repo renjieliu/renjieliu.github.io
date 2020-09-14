@@ -42,7 +42,7 @@ dt, dd {
 a {
     color: black!important;
     //background: rgba(0, 119, 181, 0);
-    //transition: all linear .2s;
+    transition: all linear 0.2s;
 
     &:hover {
         background: rgba(225, 225, 225, 1);
