@@ -41,11 +41,11 @@ dt, dd {
 
 a {
     color: black!important;
-    background: rgba(0, 119, 181, 0);
-    transition: all linear .2s;
+    //background: rgba(0, 119, 181, 0);
+    //transition: all linear .2s;
 
     &:hover {
-        background: rgba(0, 119, 181, 1);
+        background: rgba(225, 225, 225, 1);
         text-decoration: none;
     }
 }
