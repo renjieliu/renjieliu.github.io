@@ -1,12 +1,14 @@
 <h3 class="section-title">Overview</h3>
 
 <dl class="overview">
+<dt>
 	{% for item in site.data.overview.toc %}
 	<li>{{item.title}}</li>
 		{% for entry in item.subfolderitems %}
 		<li>{{entry.page}}</li>
 		{% endfor %}
 	{% endfor %}
+</dt>
 
 </dl>
 
@@ -17,12 +19,13 @@
             <p class="title">{{ job.title }}</p>
             <p class="company">{{ job.company }}</p>
             <p class="period">{{ job.period }}</p>
-        </dt>
+
 		<dd>
 		{% for x in job.description %}
             <li>{{ x.item }}</li>
 		{% endfor %}
         </dd>
+		</dt>
     {% endfor %}
 </dl>
 
