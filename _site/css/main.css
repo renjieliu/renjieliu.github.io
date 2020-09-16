@@ -25,7 +25,7 @@ body { font-family: "Lora", Helvetica, Arial, sans-serif, serif; font-size: 16px
 
 header { border-bottom: 1px solid #edefee; padding: 40px 0; margin-bottom: 40px; }
 
-@media (min-width: 640px) { header { margin-bottom: 60px; } }
+@media (min-width: 640px) { header { margin-bottom: 30px; } }
 
 .intro { margin-bottom: 20px; }
 
@@ -47,7 +47,7 @@ header { border-bottom: 1px solid #edefee; padding: 40px 0; margin-bottom: 40px;
 
 .footer__subtitle { text-transform: capitalize; }
 
-dl { margin-bottom: 20px; }
+dl { margin-bottom: 30px; }
 
 dt, dd { display: inline-block; vertical-align: top; margin-bottom: 20px; }
 

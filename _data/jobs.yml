@@ -1,36 +1,34 @@
 -   title: Business Intelligence Engineer
     company: United Nations (Trigyn), Sep 2015 - Now
-    description: >
-         - Collect and analyze Business requirements in HR reporting areas <br>
-         - Design and implement Data Warehouse tables <br>
-         - Design and implement Data Warehouse tables  <br>
-         - Data acquisition and wrangling to ensure data integrity for system integration  <br>
-         - Troubleshoot the issues reported by the user  <br>
-         - Weigh Pros and Cons and give advices on potential enhancements  <br>
-         - Automate repeating task  <br>
-         - Lead/mentor new teammate for the work  <br>
-         - Conduct technical sessions for knowledge sharing  <br>
+    description:
+         - item: Collect and analyze Business requirements in HR reporting areas  
+         - item: Design and implement Data Warehouse tables 
+         - item: Data acquisition and wrangling to ensure data integrity for system integration  
+         - item: Troubleshoot the issues reported by the user 
+         - item: Weigh Pros and Cons and give advices on potential enhancements 
+         - item: Automate repeating task  
+         - item: Lead/mentor new teammate for the work 
+         - item: Conduct technical sessions for knowledge sharing 
 
 
 -   title: Project Coordinator and Technical Leader
     company: PepsiCo (Infosys), Mar 2013 – Sep 2015
-    description: >
-        - Business requirement analysis and project coordination <br>
-        - Multi-source data wrangling, ETL and Report building <br>
-        - ETL jobs and report performance tuning <br>
-        - Production jobs support <br>
-        - System analysis and proposal for system enhancement <br>
-        - Offshore work management and project status tracking <br>
+    description: 
+        - item: Business requirement analysis and project coordination
+        - item: Multi-source data wrangling, ETL and Report building
+        - item: ETL jobs and report performance tuning
+        - item: Production jobs support
+        - item: System analysis and proposal for system enhancement
+        - item: Offshore work management and project status tracking
 
 -   title: Business Intelligence Analyst & Developer
     company: Infosys Limited, Aug 2009 – Mar 2013
-    description: >
-        - Engage in full project life cycle, High/Low-Level Design <br>
-        - Deliver report modules single handedly, including migration <br>
-        - User access configuration and management <br>
-        - System performance tuning <br>
-        - Customized report delivering, per users’ data access setup <br>
-        - End user training <br>
-    
+    description:
+        - item: Engage in full project life cycle, High/Low-Level Design
+        - item: Deliver report modules single handedly, including migration
+        - item: User access configuration and management
+        - item: System performance tuning
+        - item: Customized report delivering, per users’ data access setup
+        - item: End user training
     
     
