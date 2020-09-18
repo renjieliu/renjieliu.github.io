@@ -23,7 +23,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 body { font-family: "Lora", Helvetica, Arial, sans-serif, serif; font-size: 16px; line-height: 1.4; }
 
-header { border-bottom: 1px solid #edefee; padding: 40px 0; margin-bottom: 40px; }
+header { border-bottom: 1px solid #edefee; padding: 30px 0; margin-bottom: 40px; }
 
 @media (min-width: 640px) { header { margin-bottom: 30px; } }
 
