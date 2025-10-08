@@ -6,7 +6,7 @@
   <title>Renjie Liu</title>
   <style>
     body {
-      font-family: Arial, Helvetica, sans-serif;
+      font-family: Helvetica, Arial,  sans-serif;
       margin: 0;
       padding: 0;
       background: #f9f9f9;
@@ -19,18 +19,21 @@
       margin: auto;
       padding: 20px;
       background: #fff;
+      border: 1px solid #e5e5e5; /* light gray border */
+      border-radius: 15px;        /* soft rounded corners */
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* subtle depth */
     }
     h1 {
       font-size: 2em;
       margin-top: 35px;
 	    margin-bottom: 10px;
-      color: #000;
+      color: #005288;
     }
 
     h2 {
       margin-top: 35px;
 	    margin-bottom: 10px;
-      color: #000;
+      color: #005288;
     }
 	
     h3 {
@@ -46,7 +49,7 @@
 	  position: absolute;
 	  top: 10px;
 	  right: 10px;
-	  color: #777;
+	  color: #005288;
 	  text-decoration: none;
 	  }
 	
@@ -86,15 +89,25 @@
 
 
     a{
-      color:#000;
-      transition:all linear 0.3s
+      color:#005288;
+      transition:all linear 0.5s
     }
 
     a:hover {
-      background:#c7c7c7;
+      background:#ffe6ba;
       text-decoration:none
     }
 
+    footer {
+      position: relative;
+      text-align: right;
+      font-size: 0.8em;
+    }
+    .a_footer 
+    { 
+      color:#000000;
+      text-decoration: none;
+    }
 
     @media (max-width: 600px) {
       body {
@@ -108,11 +121,11 @@
 </head>
 <body>
   <div class="container">
-    <a class="link_download_pdf" href = "./Renjie Liu Resume.pdf">PDF version</a>
+    <a class="link_download_pdf" href = "./Renjie Liu Resume.pdf">Download PDF</a>
     <div class="header">
       <h1>Renjie Liu</h1>
-      <p>theLRJ#gmail.com / New York / <a href="https://www.linkedin.com/in/renjieliu/">LinkedIn </a> / <a href="https://bento.me/renjie">More about me</a> </p>
       <p>Business Intelligence • Data Engineering • Process Automation</p>
+      <a href="https://www.linkedin.com/in/renjieliu/">LinkedIn </a> / <a href="https://bento.me/renjie">About</a>
     </div>
     
 	
@@ -175,6 +188,17 @@
       <p>Geography Information System (B.S. Degree)<br />
       Shanghai Normal University, September 2005 - June 2009</p>
     </div>
+
+    <footer>
+      © <a class ="a_footer" href="https://renjie.page">Renjie Liu</a> 2018 - 2025
+    </footer>
+
   </div>
+  
+
+  
 </body>
+
+
+
 </html>
